@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libMain.a CMakeFiles/Main.dir/Main.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libMain.a

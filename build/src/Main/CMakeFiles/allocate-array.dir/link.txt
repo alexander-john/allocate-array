@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\allocate-array.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\allocate-array.dir/objects.a @CMakeFiles\allocate-array.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\allocate-array.dir/objects.a -Wl,--no-whole-archive -o allocate-array.exe -Wl,--out-implib,liballocate-array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\allocate-array.dir\linkLibs.rsp

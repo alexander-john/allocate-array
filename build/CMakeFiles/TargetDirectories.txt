@@ -1,0 +1,10 @@
+C:/Projects/allocate-array/build/CMakeFiles/edit_cache.dir
+C:/Projects/allocate-array/build/CMakeFiles/rebuild_cache.dir
+C:/Projects/allocate-array/build/src/CMakeFiles/edit_cache.dir
+C:/Projects/allocate-array/build/src/CMakeFiles/rebuild_cache.dir
+C:/Projects/allocate-array/build/src/Array/CMakeFiles/Array.dir
+C:/Projects/allocate-array/build/src/Array/CMakeFiles/edit_cache.dir
+C:/Projects/allocate-array/build/src/Array/CMakeFiles/rebuild_cache.dir
+C:/Projects/allocate-array/build/src/Main/CMakeFiles/allocate-array.dir
+C:/Projects/allocate-array/build/src/Main/CMakeFiles/edit_cache.dir
+C:/Projects/allocate-array/build/src/Main/CMakeFiles/rebuild_cache.dir

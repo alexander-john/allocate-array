@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Projects/allocate-array/build/src/Array",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Array.dir/includes_CXX.rsp -g -o CMakeFiles\\Array.dir\\Array.cpp.obj -c C:\\Projects\\allocate-array\\src\\Array\\Array.cpp",
+  "file": "C:/Projects/allocate-array/src/Array/Array.cpp",
+  "output": "src/Array/CMakeFiles/Array.dir/Array.cpp.obj"
+},
+{
+  "directory": "C:/Projects/allocate-array/build/src/Main",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/allocate-array.dir/includes_CXX.rsp -g -o CMakeFiles\\allocate-array.dir\\Main.cpp.obj -c C:\\Projects\\allocate-array\\src\\Main\\Main.cpp",
+  "file": "C:/Projects/allocate-array/src/Main/Main.cpp",
+  "output": "src/Main/CMakeFiles/allocate-array.dir/Main.cpp.obj"
+}
+]
